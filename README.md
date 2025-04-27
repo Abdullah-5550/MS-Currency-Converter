@@ -1,1 +1,1 @@
-# MS-Currency-Converter
+# MS Currency Converter
